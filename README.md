@@ -1,4 +1,4 @@
-# learn-spark
+# lab.spark
 
 ## RDD : resilient distributed dataset
 - distributed / partitioned
